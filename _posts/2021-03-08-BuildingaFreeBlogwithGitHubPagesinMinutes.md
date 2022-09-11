@@ -30,3 +30,7 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+
+How to build a blog, refer to:
+https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
